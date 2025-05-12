@@ -1,4 +1,4 @@
-package ThisKey;
+package This;
 /*
 Create a class Rectangle that has two constructors: one default and one parameterized.
 Use this() in the default constructor to call the parameterized one with default values.

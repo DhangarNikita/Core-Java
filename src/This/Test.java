@@ -1,4 +1,4 @@
-package ThisKey;
+package This;
 
 public class Test
 {

@@ -1,4 +1,4 @@
-package ThisKey;
+package This;
 //Write a Java class Person with a constructor that sets name and age using
 // parameters with the same names as the instance variables. Use this to differentiate between them.
 public class Person {
