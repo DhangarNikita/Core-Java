@@ -1,11 +1,11 @@
 package Polymorphism.Overriding;
 
-
 class Parent {
     void display(){
         System.out.println("Parent Class Method");
     }
 }
+
 public class Downcasting extends Parent {
     @Override
     void display() {
@@ -16,5 +16,8 @@ public class Downcasting extends Parent {
         Parent p = new Downcasting();
         Downcasting d = (Downcasting) p;
         d.display();
+
+
+
     }
 }
