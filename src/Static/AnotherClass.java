@@ -8,7 +8,6 @@ public class AnotherClass
 class CalculationTest {
     void addition()
     {
-// Call S.V. using class name.
         int a = AnotherClass.x; // Since the returning value is an integer, we will store it by using a variable a of type int.
         int b = AnotherClass.y;
         int c = a + b;

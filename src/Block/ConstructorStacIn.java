@@ -3,7 +3,7 @@ package Block;
 public class ConstructorStacIn {
     static{
         System.out.println("static block 1");
-        
+
     }
     {
         System.out.println("instance block 1");
