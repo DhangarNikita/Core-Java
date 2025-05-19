@@ -1,4 +1,4 @@
-package Static.block;
+package Block;
 // combination of static and instance block
 public class MixStacIns {
     static{

@@ -30,7 +30,7 @@ public class Demo
     }
     public static void main(String[] args)
     {
-// Creating an instance of Demo class.
+// Creating an object of Demo class.
         Demo d = new Demo();
         d.m1(); // Calling instance method.
     }

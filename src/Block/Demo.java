@@ -1,4 +1,4 @@
-package Static.block;
+package Block;
 // static block execute first then main method execute
 public class Demo {
     static{
