@@ -9,7 +9,11 @@ public class ConstructorStacIn {
         System.out.println("instance block 1");
     }
     ConstructorStacIn(){
+        this(10);
         System.out.println("ConstructorStacIn Constructor");
+    }
+    ConstructorStacIn(int a){
+        System.out.println(a);
     }
 }
 
@@ -20,9 +24,7 @@ class Test extends ConstructorStacIn{
 
     {
         System.out.println("instance block 2");
-        {
-            System.out.println("instance block 3");
-        }
+
     }
 
 
@@ -32,5 +34,7 @@ class Test extends ConstructorStacIn{
 
     public static void main(String[] args) {
         Test ts = new Test();
+
+
     }
 }
