@@ -1,5 +1,7 @@
 package Lab.LabEx1;
 
+import java.sql.SQLOutput;
+
 public class SameMethod2 {
 
     int sum(int a, int b ){
