@@ -6,13 +6,14 @@ public class VariableFinal {
         this.a = a;
     }
 
-//    void change(int b){   we can not initialize final variable value in method body
-//        this.a=b;
-//    }
+      /*  void change(int b){ //  we can not initialize final variable value in method body
+         this.a=b;
+   }*/
 
     public static void main(String[] args) {
         VariableFinal vf = new VariableFinal(10);
         System.out.println(vf.a);
+
     }
 }
 

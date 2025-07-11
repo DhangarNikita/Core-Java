@@ -5,6 +5,10 @@ package Oops.Abstraction;
 
 public abstract class UsingAbstraction {
     abstract void makeSound();
+    UsingAbstraction(){
+        System.out.println("Constructor of abstract class");
+    }
+
 }
 
 class Dog extends UsingAbstraction{

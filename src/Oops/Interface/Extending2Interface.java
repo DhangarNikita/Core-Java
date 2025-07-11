@@ -1,4 +1,4 @@
-package Interface;
+package Oops.Interface;
 
 public interface Extending2Interface {
     void m1();
@@ -12,15 +12,15 @@ interface B extends Extending2Interface{
 class C implements B{
     @Override
     public void m1(){
-        System.out.println("Interface 1 with m1 method");
+        System.out.println("Oops.Interface 1 with m1 method");
     }
     @Override
     public void m2(){
-        System.out.println("Interface 1 with m2 method");
+        System.out.println("Oops.Interface 1 with m2 method");
     }
     @Override
     public void m3(){
-        System.out.println("Interface 2 with m3 method");
+        System.out.println("Oops.Interface 2 with m3 method");
     }
 
     public static void main(String[] args) {

@@ -1,7 +1,14 @@
-public class Demo {
-    static public void main(String[] a) {
+@FunctionalInterface
+public interface Demo {
+    void show();
+}
 
-        System.out.println("hello");
+@FunctionalInterface
+interface Test extends Demo{
+    void test();
+
+    @Override
+    default void show(){
 
     }
 }

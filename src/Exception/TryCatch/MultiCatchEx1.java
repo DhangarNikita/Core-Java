@@ -18,6 +18,10 @@ public class MultiCatchEx1 {
         catch (RuntimeException e)
         {
             System.out.println("RuntimeException");
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        } catch (Throwable e) {
+            throw new RuntimeException(e);
         }
     }
 }

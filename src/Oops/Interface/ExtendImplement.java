@@ -1,4 +1,4 @@
-package Interface;
+package Oops.Interface;
 /// one class can extends another class as well as implement more than two interface at a time in single class.
 interface Add{
     int add(int a, int b);

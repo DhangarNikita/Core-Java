@@ -1,4 +1,4 @@
-package Interface;
+package Oops.Interface;
 
 //we create a reference of a interface and then we create a object of class
 

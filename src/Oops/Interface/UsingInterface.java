@@ -1,4 +1,4 @@
-package Interface;
+package Oops.Interface;
 
 public interface UsingInterface {
     int a  = 10;   // by default static final

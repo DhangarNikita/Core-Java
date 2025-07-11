@@ -1,4 +1,4 @@
-package Interface;
+package Oops.Interface;
 
 //if one abstract class implement another interface so its no mandatory for that abstract class to implement superclass method.
 
