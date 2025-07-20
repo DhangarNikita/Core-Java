@@ -9,7 +9,7 @@ interface B extends Extending2Interface{
     void m3();
 }
 
-class C implements B{
+class C implements B {
     @Override
     public void m1(){
         System.out.println("Oops.Interface 1 with m1 method");

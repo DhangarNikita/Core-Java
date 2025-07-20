@@ -88,7 +88,6 @@ class Employee implements Comparable<Employee>{
     }
 }
 
-
 public class ComparableSorting {
 
     public static void main(String[] args) {
@@ -110,6 +109,5 @@ public class ComparableSorting {
         Collections.sort(employeeList);
         System.out.println("After sorting "+employeeList);   //
         //dateFormatting()     50 => new object
-
     }
 }

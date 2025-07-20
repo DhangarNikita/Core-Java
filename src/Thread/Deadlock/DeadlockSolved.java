@@ -2,8 +2,13 @@ package Thread.Deadlock;
 // pass resources in a same order
 
 public class DeadlockSolved {
-    final static String r1 = "Pen";
-    final static String r2 = "Paper";
+   /* final static String r1 = "Pen";
+    final static String r2 = "Paper";*/
+
+    static DeadlockSolved r1 = new DeadlockSolved();
+    static  DeadlockSolved r2 = new DeadlockSolved();
+
+
 
     public static void main(String[] args) {
 

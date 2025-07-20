@@ -12,3 +12,13 @@ interface Test extends Demo{
 
     }
 }
+
+class Str{
+    public static void main(String[] args) {
+        String st = "Nikita";
+        st="abc";
+        System.out.println(st);
+
+
+    }
+}

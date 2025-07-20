@@ -1,0 +1,14 @@
+1) Searching
+    i) Linear
+   ii) Binary
+2) Sorting
+3) Methods of Object Class
+4) SOLID Principles
+5) Object creation ways
+6) Design Patterns
+7) Comparable vs Comparator
+8) ArrayList vs Linkedlist
+9) ArrayList vs Vector
+10) Array vs ArrayList
+11) Collection vs Collections
+12)
