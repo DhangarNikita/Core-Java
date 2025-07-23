@@ -13,12 +13,17 @@ interface Test extends Demo{
     }
 }
 
-class Str{
-    public static void main(String[] args) {
+class Str {
+    final public static void main(String[] args) {
         String st = "Nikita";
-        st="abc";
+        st = "abc";
         System.out.println(st);
-
 
     }
 }
+/*
+    class A extends Str{
+        public static void main(String[] args) {
+
+        }
+    }*/
