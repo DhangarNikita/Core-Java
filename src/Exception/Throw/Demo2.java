@@ -7,10 +7,10 @@ public class Demo2 {
             //System.out.println("Try block");
 
             throw new ArithmeticException();
-
-           // System.out.println("Unreachable code"); // we can not write any statement after throw statement
+            // System.out.println("Unreachable code"); // we can not write any statement after throw statement
         }catch (ArithmeticException ae){
             System.out.println("Exception occurred");
         }
+        System.out.println("Hello");
     }
 }

@@ -10,5 +10,7 @@ public class Arithmetic {
           // e.printStackTrace();
            System.out.println(e.getMessage());
        }
+
+       }
     }
-}
+
