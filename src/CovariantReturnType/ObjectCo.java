@@ -1,4 +1,4 @@
-package CovariantReturnType;
+package covariantreturntype;
 
 public class ObjectCo {
     Object m1(){

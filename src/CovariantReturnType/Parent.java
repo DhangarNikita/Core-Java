@@ -1,4 +1,4 @@
-package CovariantReturnType;
+package covariantreturntype;
 
 public class Parent {
     Parent m1(){

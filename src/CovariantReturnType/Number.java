@@ -1,4 +1,4 @@
-package CovariantReturnType;
+package covariantreturntype;
 
 public class Number {
     Number mm1(int a, int b){
