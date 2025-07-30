@@ -1,4 +1,4 @@
-package Collection.Iterator;
+package collection.Iterator;
 import java.util.*;
 public class ListIteratorOtherMethods {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package BasicJava;
+package basicjava;
 
 public class Methods {
     // syntax 1

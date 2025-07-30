@@ -1,4 +1,4 @@
-package Casting;
+package casting;
 
 public class Implicit {
     char z= 'c';     // take its ascii value

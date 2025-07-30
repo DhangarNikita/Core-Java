@@ -1,4 +1,4 @@
-package ArrayProgramming;
+package arrayprogramming;
 import java.util.Scanner;
 //Ask the user for a number n, then print the sum of all numbers from 1 to n.
 public class Sum {

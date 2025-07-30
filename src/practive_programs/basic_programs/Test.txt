@@ -10,5 +10,5 @@
 8) ArrayList vs Linkedlist
 9) ArrayList vs Vector
 10) Array vs ArrayList
-11) Collection vs Collections
+11) collection vs Collections
 12)

@@ -1,4 +1,4 @@
-package BasicJava;
+package basicjava;
 
 public class RelationalOperators {
     public static void main(String[] args){

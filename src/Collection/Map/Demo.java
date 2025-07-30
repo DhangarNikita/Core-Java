@@ -1,4 +1,4 @@
-package Collection.Map;
+package collection.Map;
 import java.util.*;
 public class Demo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ArrayProgramming;
+package arrayprogramming;
 
 public class Swap {
     public static void main(String[] args) {

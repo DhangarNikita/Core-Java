@@ -1,4 +1,4 @@
-package Casting.Upcasting;
+package casting.Upcasting;
 
 public class One {
     void m1(){

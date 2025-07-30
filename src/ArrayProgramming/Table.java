@@ -1,4 +1,4 @@
-package ArrayProgramming;
+package arrayprogramming;
 
 import java.util.Scanner;
 //Write a program that takes a number as input and prints its multiplication table up to 10.

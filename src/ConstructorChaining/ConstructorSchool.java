@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package constructorchaining;
 
 public class ConstructorSchool {
     ConstructorSchool(String name){

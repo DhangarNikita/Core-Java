@@ -1,4 +1,4 @@
-package Block;
+package block;
 // instance block execute after object create and before constructor execute
 // execute at every object creation
 public class InstanceBlock {

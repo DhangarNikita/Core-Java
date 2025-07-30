@@ -1,4 +1,4 @@
-package Casting.DownCasting;
+package casting.DownCasting;
 
 public class CastParent {
     void m1(){

@@ -1,4 +1,4 @@
-package Block;
+package block;
 // static block run before the main method execute
 public class StaticBlock {
     static{

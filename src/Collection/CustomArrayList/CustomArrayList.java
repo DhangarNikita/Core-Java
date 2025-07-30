@@ -1,4 +1,4 @@
-package Collection.CustomArrayList;
+package collection.CustomArrayList;
 
 import java.util.Arrays;
 

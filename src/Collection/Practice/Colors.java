@@ -1,9 +1,9 @@
-package Collection.ArrayList;
+package collection.Practice;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-//Write a Java program to create an array list, add some colors (strings) and print out the collection.
+//1.Write a Java program to create an array list, add some colors (strings) and print out the collection.
 public class Colors {
     public static void main(String[] args) {
         ArrayList<String> list=new ArrayList<>();

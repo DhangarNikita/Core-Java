@@ -1,4 +1,4 @@
-package ArrayProgramming;
+package arrayprogramming;
 
 import java.util.Scanner;
 

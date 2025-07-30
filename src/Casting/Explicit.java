@@ -1,4 +1,4 @@
-package Casting;
+package casting;
 
 public class Explicit {
     double  d= 30.33;

@@ -1,4 +1,4 @@
-package Block;
+package block;
 
 public class StaticInstance {
     static{

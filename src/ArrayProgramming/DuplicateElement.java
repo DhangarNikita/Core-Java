@@ -1,4 +1,4 @@
-package ArrayProgramming;
+package arrayprogramming;
 /*
 Given an array of integers, find all the duplicate elements in the array.
 From these duplicate elements, identify the element  with the greatest value.

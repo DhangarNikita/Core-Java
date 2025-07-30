@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package constructorchaining;
 
 class Person {
     Person(String name, int age) {

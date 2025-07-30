@@ -1,4 +1,4 @@
-package Collection.CustomArrayList;
+package collection.CustomArrayList;
 
 public class TestArrayList {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package constructorchaining;
 
 class Area{
   Area(int area){

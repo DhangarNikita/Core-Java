@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package constructorchaining;
 
 class A{
     A(){

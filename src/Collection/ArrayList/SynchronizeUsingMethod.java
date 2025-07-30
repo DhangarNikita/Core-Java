@@ -1,4 +1,4 @@
-package Collection.ArrayList;
+package collection.ArrayList;
 import java.util.*;
 public class SynchronizeUsingMethod {
     public static void main(String[] args){

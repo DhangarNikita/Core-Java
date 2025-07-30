@@ -1,4 +1,4 @@
-package ArrayProgramming;
+package arrayprogramming;
 
 public class CopyArray {
     public static void main(String[] args) {

@@ -7,7 +7,7 @@ public class ClassNotFound {
 
         try{
            // Class.forName("Exception.RunTime.Arithmetic");
-            Class.forName("Block.Free");   // Class.forname() used to load the class at run time.
+            Class.forName("block.Free");   // Class.forname() used to load the class at run time.
             System.out.println("class found");
         } catch (ClassNotFoundException e) {
             System.out.println("Caught ClassNotFoundException!");

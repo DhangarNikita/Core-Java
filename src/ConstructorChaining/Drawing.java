@@ -1,4 +1,4 @@
-package ConstructorChaining;
+package constructorchaining;
 
 class Shape {
     Shape(int area) {

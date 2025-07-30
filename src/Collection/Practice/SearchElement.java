@@ -1,4 +1,4 @@
-package Collection.ArrayList;
+package collection.Practice;
 //7. Write a Java program to search for an element in an array list.
 
 import java.util.ArrayList;

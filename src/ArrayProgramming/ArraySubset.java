@@ -1,4 +1,4 @@
-package ArrayProgramming;
+package arrayprogramming;
 // print array in subset
 public class ArraySubset {
     public static void main(String[] args) {

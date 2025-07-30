@@ -1,6 +1,4 @@
-package ArrayProgramming;
-
-import java.util.ArrayList;
+package arrayprogramming;
 
 public class RemoveElement {
     public static void main(String[] args){
