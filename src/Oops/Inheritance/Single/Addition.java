@@ -1,4 +1,4 @@
-package Oops.Inheritance.Single;
+package oops.inheritance.Single;
 
 public class Addition {
     void add(int a, int b){

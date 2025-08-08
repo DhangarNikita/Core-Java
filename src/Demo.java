@@ -1,3 +1,4 @@
+/*
 @FunctionalInterface
 public interface Demo {
     void show();
@@ -21,10 +22,13 @@ class Str {
 
     }
 }
+*/
 /*
     class A extends Str{
         public static void main(String[] args) {
 
         }
-    }*/
+    }*//*
 
+
+*/

@@ -1,4 +1,4 @@
-package String.Programs;
+package string.programs;
 // replace string with number
 
 public class ReplaceStringWithNumber {

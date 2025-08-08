@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // argument list or method signature must be exactly the same as that of the overridden/parent class method
 public class RuleNo2 {
     void marryDate(){

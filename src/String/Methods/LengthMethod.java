@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 
 //The number of characters in a string is called length of a string. To get this value, call length() method.
 

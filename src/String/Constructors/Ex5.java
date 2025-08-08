@@ -1,4 +1,4 @@
-package String.Constructors;
+package string.constructors;
 // pass byte array as a argument of a string object
 
 public class Ex5 {

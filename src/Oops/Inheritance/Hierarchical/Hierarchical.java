@@ -1,4 +1,4 @@
-package Oops.Inheritance.Hierarchical;
+package oops.inheritance.Hierarchical;
 
 public class Hierarchical {
     int a=10;

@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //18. Write a Java program to test whether an array list is empty or not.
 
 import java.util.ArrayList;

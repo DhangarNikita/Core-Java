@@ -1,4 +1,4 @@
-package Oops.Inheritance.Hierarchical;
+package oops.inheritance.Hierarchical;
 
 // Parent class
 class Shape {

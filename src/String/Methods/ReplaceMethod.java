@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 //It replaces all the old char or CharSequence to new char or CharSequence
 
 public class ReplaceMethod {

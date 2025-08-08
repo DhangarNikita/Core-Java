@@ -1,4 +1,4 @@
-package Oops.Inheritance.Single;
+package oops.inheritance.Single;
 
 public class Multiplication {
     int mul(int a, int b){

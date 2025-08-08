@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 //  isEmpty(): This method is used to check that the string is empty or not
 
 public class IsEmptyMethod {

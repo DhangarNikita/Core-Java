@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 import java.util.Scanner;
 //Write Program to read 2 numbers and print biggest number?(Using Scanner)
 

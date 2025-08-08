@@ -1,4 +1,4 @@
-package Oops.Abstraction;
+package oops.abstraction;
 // Oops.Polymorphism.Abstraction means hiding the internal implementation details and
 // showing only the essential functionalities to the user.
 

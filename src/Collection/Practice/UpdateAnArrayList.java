@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //5. Write a Java program to update an array element by the given element.
 import java.util.ArrayList;
 import java.util.List;

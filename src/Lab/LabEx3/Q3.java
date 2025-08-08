@@ -1,4 +1,4 @@
-package Lab.LabEx3;
+package lab.labEx3;
 //Accessing above 4 members from another class program within the same package.
 public class Q3 {
     private int a=10;

@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //15. Write a Java program to join two array lists.
 import java.util.ArrayList;
 import java.util.List;

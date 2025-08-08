@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 // Write a program to find out squares and cubes from 1- 10 numbers?
 public class SquaresAndCubes {
     public static void main(String[] args) {

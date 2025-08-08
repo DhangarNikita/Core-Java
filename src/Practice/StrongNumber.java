@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 //Write a program to check whether a number is a Strong Number or not
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Oops.Encapsulation.GetterSetter;
+package oops.encapsulation.GetterSetter;
 
 //we will define only the getter method to read the value of the private variable and make it read-only.
 // We will declare a constructor to initialize the value of the variable.

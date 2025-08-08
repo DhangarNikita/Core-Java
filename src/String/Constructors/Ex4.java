@@ -1,4 +1,4 @@
-package String.Constructors;
+package string.constructors;
 // pass char array as argument of string object with start index and count to
 public class Ex4 {
     public static void main(String[] args) {

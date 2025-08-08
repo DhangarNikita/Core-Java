@@ -1,4 +1,4 @@
-package Oops.Encapsulation.GetterSetter;
+package oops.encapsulation.GetterSetter;
 
 
 public class Area

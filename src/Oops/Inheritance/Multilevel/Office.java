@@ -1,4 +1,4 @@
-package Oops.Inheritance.Multilevel;
+package oops.inheritance.Multilevel;
 
 class Person {
     String name;

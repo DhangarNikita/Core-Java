@@ -1,4 +1,4 @@
-package Lab.LabEx3;
+package lab.labEx3;
 
 public class AccessDemo {
     private int privateVar = 1;

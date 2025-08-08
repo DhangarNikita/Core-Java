@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //14. Write a Java program that swaps two elements in an array list.
 import java.util.ArrayList;
 import java.util.Collections;

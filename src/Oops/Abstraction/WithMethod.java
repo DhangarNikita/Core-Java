@@ -1,4 +1,4 @@
-package Oops.Abstraction;
+package oops.abstraction;
 
 public abstract class WithMethod {
     static{

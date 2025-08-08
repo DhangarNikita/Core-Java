@@ -1,7 +1,7 @@
-package Oops.Encapsulation.GetterSetter;
+package oops.encapsulation.GetterSetter;
 
 public class Person {
-    //creating private varieble
+    //creating private variable
     private String name;
     private int age;
 
@@ -20,19 +20,23 @@ public class Person {
     }
 
     public void setAge(int a){
-        this.age=a;
+        if(a>=18) {
+            this.age = a;
+        }else{
+            System.out.println("Invalid age");
+        }
     }
 }
  class Display{
      public static void main(String[] args) {
          Person ps = new Person();
          ps.setName("Nikita");
-         ps.setAge(22);
+         ps.setAge(25);
 
          String n= ps.getName();
          int a = ps.getAge();
 
          System.out.println("Student Name is: "+n);
-         System.out.println("Student age is: "+a);
+         System.out.println("Student age is: "+ps.getAge());
      }
  }

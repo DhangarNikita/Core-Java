@@ -1,4 +1,4 @@
-package String.Programs;
+package string.programs;
 // program counts how many times each character appears in the string
 
 public class CharacterOccurrence {

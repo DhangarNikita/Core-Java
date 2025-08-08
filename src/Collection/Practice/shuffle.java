@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //10. Write a Java program to shuffle elements in an array list.
 import java.util.ArrayList;
 import java.util.Collections;

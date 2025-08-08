@@ -1,4 +1,4 @@
-package Lab.LabEx3;
+package lab.labEx3;
 //) Write a sample demo program regarding accessible modifiers using private.
 public class AccessPrivate {
     private String name ="Nikita";  // private variable

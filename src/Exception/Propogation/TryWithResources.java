@@ -1,4 +1,4 @@
-package Exception.Propogation;
+package exception.propogation;
 
 import java.io.File;
 import java.io.FileNotFoundException;

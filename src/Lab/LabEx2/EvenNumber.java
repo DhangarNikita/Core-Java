@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 import java.util.Scanner;
 
 //Write program to print the even numbers between two numbers order may be increment or decrement?

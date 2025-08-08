@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //12. Write a Java program to extract a portion of an array list.
 import java.util.ArrayList;
 import java.util.List;

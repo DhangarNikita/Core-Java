@@ -1,6 +1,4 @@
-package Lab.LabEx1;
-
-import java.sql.SQLOutput;
+package lab.labEx1;
 
 public class SameMethod2 {
 

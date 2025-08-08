@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // The return type should be the same or a subtype of the return type declared in the original overridden method in super class
 public class Rule3 {
     Object m1(){

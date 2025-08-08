@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 //Write a program to print all natural numbers in reverse
 
 import java.util.Scanner;

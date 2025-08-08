@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // check memory address
 public class DoubleEqualOperator {
     public static void main(String[] args) {

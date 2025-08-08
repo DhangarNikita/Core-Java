@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 
 public class CharacterAtIndex {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lab.LabEx1;
+package lab.labEx1;
 
 public class MethodCalling {
 

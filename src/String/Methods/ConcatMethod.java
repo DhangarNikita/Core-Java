@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // connect two strings
 public class ConcatMethod {
     public static void main(String[] args) {

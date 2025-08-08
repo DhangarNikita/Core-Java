@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 
 public class Basic {
     String s1 = new String("Java");   // using new keyword

@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 //Write a program to print tables
 
 import java.util.Scanner;

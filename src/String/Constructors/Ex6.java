@@ -1,4 +1,4 @@
-package String.Constructors;
+package string.constructors;
 //This constructor create a new string object by passing byte array and index and decode
 // it to ASCII value using the systems default character set
 public class Ex6 {

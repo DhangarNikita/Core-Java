@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 
 // This method returns true if this string contains the specified sequence of char value.
 public class ContainMethod {

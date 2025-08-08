@@ -1,4 +1,4 @@
-package String.Programs;
+package string.programs;
 
 public class FinalVsImmutable {
     //what is final?  => pi = 3.14

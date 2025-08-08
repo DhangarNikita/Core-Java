@@ -1,4 +1,4 @@
-package String.Programs;
+package string.programs;
 
 public class FindUpperCaseInString {
     public static void main(String[] args) {

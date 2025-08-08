@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 
 public class Q19 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // ignore upper and lower case
 public class EqualsIgnoreMethod {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 // Write a program to print all alphabets from a to z
 public class PrintAlphabets {

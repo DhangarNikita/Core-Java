@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // This trim() method removes spaces from the beginning and ending from a string.
 public class TrimMethod {
     public static void main(String [] args){

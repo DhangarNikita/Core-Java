@@ -1,4 +1,4 @@
-package String.Constructors;
+package string.constructors;
 // pass char array as argument of string object
 public class Ex3 {
     public static void main(String[] args) {

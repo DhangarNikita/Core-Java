@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // break string using starting and ending index
 public class SubstringMethod {
     public static void main(String[] args) {

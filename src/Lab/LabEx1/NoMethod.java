@@ -1,4 +1,4 @@
-package Lab.LabEx1;
+package lab.labEx1;
 //Write Program without main method and execute that program
 public class NoMethod {
     void print(){

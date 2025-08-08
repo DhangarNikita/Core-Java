@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 import java.util.Scanner;
 
 //Write program to check whether a year is leap or not?

@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //6. Write a Java program to remove the third element from an array list.
 
 import java.util.ArrayList;

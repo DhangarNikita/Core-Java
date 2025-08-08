@@ -1,4 +1,4 @@
-package collection.Vector;
+package collection.vector;
 
 public class Constructors {
 

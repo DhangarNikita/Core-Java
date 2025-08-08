@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // Return type must be same for both parent and child class method(parent child relationship)
 
 

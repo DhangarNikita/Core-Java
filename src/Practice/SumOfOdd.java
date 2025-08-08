@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 //Write a program to find sum of all odd numbers between 1 to n
 
 import java.util.Scanner;

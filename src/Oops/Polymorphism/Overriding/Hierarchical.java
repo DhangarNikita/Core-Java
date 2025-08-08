@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // if only one child to want to override the method
 
 public class Hierarchical {

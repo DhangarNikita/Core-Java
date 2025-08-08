@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // if we override method then use same access modifier or else smaller access modifier
 
 public class RuleNo4 {

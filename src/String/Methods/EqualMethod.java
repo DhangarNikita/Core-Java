@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // equal() method check the content inside the object
 
 public class EqualMethod {

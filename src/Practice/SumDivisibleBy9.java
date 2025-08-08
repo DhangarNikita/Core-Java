@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 public class SumDivisibleBy9 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 // 16. Write a Java program to clone an array list to another array list.
 
 import java.util.ArrayList;

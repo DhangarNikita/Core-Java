@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 //Write a program to print reverse alphabets from Z to A
 
 public class ReverseAlphabet {

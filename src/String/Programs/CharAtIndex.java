@@ -1,4 +1,4 @@
-package String.Programs;
+package string.programs;
 // Write a Java program to retrieve the character at a given index from a string,
 // and display a custom message if the index is out of range.
 

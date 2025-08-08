@@ -1,4 +1,4 @@
-package Oops.Inheritance.Single;
+package oops.inheritance.Single;
 
 // Base class
 public class Vehicle {

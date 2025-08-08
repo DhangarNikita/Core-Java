@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 import java.util.Scanner;
 
 //Accept 3 numbers and find largest number using if statement only.

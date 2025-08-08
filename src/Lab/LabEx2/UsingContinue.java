@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 // Write program to continue statement in for loop
 //prints numbers from 1 to 10, but skips even numbers using continue
 public class UsingContinue {

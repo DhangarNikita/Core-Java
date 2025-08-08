@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // A meyhod can override in only child class
 public class Rule1 {
     void m1(){

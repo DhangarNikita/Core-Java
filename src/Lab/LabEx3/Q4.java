@@ -1,4 +1,4 @@
-package Lab.LabEx3;
+package lab.labEx3;
 
 public class Q4 {
     private int aa=10;

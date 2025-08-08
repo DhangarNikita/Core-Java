@@ -1,4 +1,4 @@
-package Exception.Propogation;
+package exception.propogation;
 
 public class PropogationEx1 {
 

@@ -1,5 +1,5 @@
-package Lab.Lab3;
-import Lab.LabEx3.AccessDemo;
+package lab.lab3;
+import lab.labEx3.AccessDemo;
 
 public class SubClass extends AccessDemo {
     void accessFromSubclass() {

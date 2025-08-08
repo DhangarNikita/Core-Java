@@ -1,4 +1,4 @@
-package String.Programs;
+package string.programs;
 
 public class CharacterCount {
 

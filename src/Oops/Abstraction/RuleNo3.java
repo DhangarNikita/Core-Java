@@ -1,4 +1,4 @@
-package Oops.Abstraction;
+package oops.abstraction;
 
 //You cannot create an object of an abstract class.
 

@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 // Write a program to print the ASCII values
 public class PrintAscii {

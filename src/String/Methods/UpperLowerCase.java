@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // convert string into upper and lower case
 
 public class UpperLowerCase {

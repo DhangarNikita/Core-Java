@@ -1,4 +1,4 @@
-package String.Methods;
+package string.methods;
 // convert string into unicode and return integer value
 public class CompareToMethod {
     public static void main(String[] args) {

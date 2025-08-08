@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 
 public class PrintSamePattern {
     public static void main(String[] args) {

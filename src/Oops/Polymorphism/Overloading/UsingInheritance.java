@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overloading;
+package oops.polymorphism.Overloading;
 // overloading perform using inheritance that doesn't make sense because it is method overriding not a overloading
 public class UsingInheritance {
     int sub(int a,int b){

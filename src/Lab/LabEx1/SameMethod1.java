@@ -1,4 +1,4 @@
-package Lab.LabEx1;
+package lab.labEx1;
 
 public class SameMethod1 {
     int sum(int a, int b ){

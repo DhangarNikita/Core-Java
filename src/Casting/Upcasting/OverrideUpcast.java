@@ -1,4 +1,4 @@
-package casting.Upcasting;
+package casting.upcasting;
 
 public class OverrideUpcast {
     void add (int a, int b){

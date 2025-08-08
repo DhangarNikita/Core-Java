@@ -1,4 +1,4 @@
-package Lab.LabEx2;
+package lab.labEx2;
 /*
 Write program to print
     1

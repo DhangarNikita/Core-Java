@@ -1,5 +1,5 @@
-package Lab.Lab3;
-import Lab.LabEx3.Q5;
+package lab.lab3;
+import lab.labEx3.Q5;
 public class Qtest5 {
     public static void main(String[] args) {
         Q5 q = new Q5();

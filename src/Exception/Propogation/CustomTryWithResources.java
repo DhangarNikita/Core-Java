@@ -1,6 +1,5 @@
-package Exception.Propogation;
+package exception.propogation;
 
-import java.io.PrintStream;
 import java.util.Scanner;
 
 public class CustomTryWithResources implements AutoCloseable {

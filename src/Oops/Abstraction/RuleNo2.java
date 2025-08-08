@@ -1,4 +1,4 @@
-package Oops.Abstraction;
+package oops.abstraction;
 
 // If we define any abstract method in a class then that class must be abstract
 public abstract class RuleNo2 {

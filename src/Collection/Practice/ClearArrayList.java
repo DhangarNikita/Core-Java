@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 // 17. Write a Java program to empty an array list.
 
 import java.util.ArrayList;

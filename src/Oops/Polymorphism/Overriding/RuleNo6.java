@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // we can not override static method its method hiding process
 public class RuleNo6
 {

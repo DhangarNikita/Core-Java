@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 //8. Write a Java program to sort a given array list.
 import java.util.ArrayList;
 import java.util.List;
@@ -12,7 +12,6 @@ public class SortArrayList {
         list.add(90);
         list.add(80);
         list.add(60);
-
         System.out.println(list);
 
         int temp=0;

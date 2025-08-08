@@ -1,4 +1,4 @@
-package Oops.Abstraction;
+package oops.abstraction;
 
 // If one abstract class extends another abstract class then its not mandatory
 // for that child class to provide method implementations of abstract method of super class

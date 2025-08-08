@@ -1,4 +1,4 @@
-package Oops.Encapsulation.Example;
+package oops.encapsulation.Example;
 
 public class Encapsulation {
     private int id;

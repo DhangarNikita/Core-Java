@@ -1,4 +1,4 @@
-package Error;
+package error;
 
 public class OutOfMemory {
     public static void main(String[] args){

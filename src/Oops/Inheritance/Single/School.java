@@ -1,4 +1,4 @@
-package Oops.Inheritance.Single;
+package oops.inheritance.Single;
 
 public class School {
     void school(){

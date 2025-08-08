@@ -1,4 +1,4 @@
-package Oops.Encapsulation.GetterSetter;
+package oops.encapsulation.GetterSetter;
 //we will define only the setter method to set the value of the variable and make it write only
 
 public class SetterOnly

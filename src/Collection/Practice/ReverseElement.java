@@ -1,4 +1,4 @@
-package collection.Practice;
+package collection.practice;
 // 11. Write a Java program to reverse elements in an array list.
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package String.Programs;
+package string.programs;
 // convert characters in a string to alternating upper and lower cases
 
 public class AlternateUpperLowerCase {

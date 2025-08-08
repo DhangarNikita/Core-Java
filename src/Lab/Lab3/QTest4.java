@@ -1,5 +1,5 @@
-package Lab.Lab3;
-import Lab.LabEx3.Q4;
+package lab.lab3;
+import lab.labEx3.Q4;
 
 public class QTest4 extends Q4 {
     public static void main(String[] args) {

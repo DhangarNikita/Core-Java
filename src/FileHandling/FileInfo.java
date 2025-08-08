@@ -1,4 +1,4 @@
-package FileHandling;
+package filehandling;
 import java.io.*;
 public class FileInfo {
     public static void main(String[] args) throws IOException{

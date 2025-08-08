@@ -1,4 +1,4 @@
-package Oops.Polymorphism.Overriding;
+package oops.polymorphism.Overriding;
 // we can not override final method
 public class RuleNo5 {
     final static int a = 10;
