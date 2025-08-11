@@ -8,14 +8,14 @@ public class CheckEmail {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your Email");
-        String str= sc.nextLine();
+        String str = sc.nextLine();
 
         Pattern p = Pattern.compile("^[a-zA-Z0-9_.$-]+@[a-zA-Z0-9]+\\.[a-zA-z]{2,}$");
         Matcher m = p.matcher(str);
         boolean b = m.matches();
-        if(b){
+        if (b) {
             System.out.println("valid email id");
-        }else{
+        } else {
             System.out.println("Invalid Email");
         }
     }

@@ -45,6 +45,5 @@ public class PatternEx {
         boolean b10 = Pattern.matches("x{2}", "xx"); //a, one or more times
         System.out.println("result 11 : " + b10);
 
-
     }
 }
