@@ -32,3 +32,17 @@ class Str {
 
 
 */
+class Demo{
+    final public static void main(String[] args){
+        System.out.println("Hello");
+        System.out.println("Nikita");
+
+    }
+}
+
+/*
+class B extends Demo{
+    public static void main(String[] args) {
+
+    }
+}*/
