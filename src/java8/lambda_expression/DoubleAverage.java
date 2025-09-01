@@ -4,21 +4,21 @@ package java8.lambda_expression;
 import java.util.ArrayList;
 import java.util.List;
 
-interface Double{
-    void average(List<Integer> list);
+interface DoubleAvg{
+    void average(List<Double> list);
 }
 public class DoubleAverage {
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList<>();
-        list.add(10);
-        list.add(20);
-        list.add(30);
-        list.add(40);
+        List<Double> list = new ArrayList<>();
+        list.add(10.00);
+        list.add(20.00);
+        list.add(30.00);
+        list.add(40.00);
 
-        Double d =(list2)->{
-            int ave=0;
-            int sum=0;
-            for(Integer num: list){
+        DoubleAvg d =(list2)->{
+            double ave = 0;
+            double sum = 0;
+            for(Double num: list){
                 sum+=num;
             }
             if(list2.isEmpty()){
